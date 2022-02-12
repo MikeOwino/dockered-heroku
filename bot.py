@@ -6,7 +6,7 @@ import math
 import re
 from time import sleep
 
-from telegram import ParseMode
+# from telegram import ParseMode
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, InlineQueryResultArticle, InputTextMessageContent
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, MessageHandler, Filters, InlineQueryHandler
 from telegram.ext import PicklePersistence, ConversationHandler
