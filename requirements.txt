@@ -1,0 +1,5 @@
+requests
+matplotlib
+python-telegram-bot
+sparqlwrapper
+pyautogui
